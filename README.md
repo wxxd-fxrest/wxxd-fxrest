@@ -4,7 +4,9 @@
 
 --- 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxd-fxrest&show_icons=true&theme=radical)
+<div align="right">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxd-fxrest&show_icons=true&theme=radical)
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxd-fxrest)]
 
 
