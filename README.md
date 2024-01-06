@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=c1ccc8&text=WOOD)
 
 
-![Wood's GitHub stats](https://github-readme-stats.vercel.app/api?username=wood&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxd-fxrest&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxd-fxrest)](https://github.com/anuraghazra/github-readme-stats)
